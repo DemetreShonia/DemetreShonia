@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Demetre!
 #### I am a **Senior Unity Developer** !
 
-I am 20 years old  Computer Science 🥼 student from Georgia. During the programming journey 🌏, I encountered many fields except game dev, including web, mobile or blockchain development! 👨‍💻
+I am 21 years old  Computer Science 🥼 student from Georgia. During the programming journey 🌏, I encountered many fields except game dev, including web, mobile or blockchain development! 👨‍💻
 
 Skills: Unity, C#, Python, html/css/js/React/Native, Java, Ocaml
 
