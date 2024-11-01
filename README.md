@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Demetre!
-## I am a **Software Engineer with 5+ years of experience** !
+## I am a **Software and Game Developer** !
 
 I am 21 years old  Computer Science 🥼 student from Georgia. During the programming journey 🌏, I encountered many fields, particullary in game dev, web, mobile and blockchain development! 👨‍💻
 
