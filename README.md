@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Demetre!
 ## I am a **Software and Game Developer** !
 
-I am 22 years old  Computer Science 🥼 student from Georgia. During the programming journey 🌏, I encountered many fields, particullary in game dev, web, mobile and blockchain development! 👨‍💻
+I am 23 years old  Computer Science 🥼 student from Georgia. Doing my Master's CS at KIT, Karlsruhe. During the programming journey 🌏, I encountered many fields, particullary in game dev, web, mobile and blockchain development! 👨‍💻
 
 Skills: Unity, C#, NextJS, Python, Flutter, Java, Ocaml
 
