@@ -1,10 +1,12 @@
-### Hi there 👋, my name is Demetre!
-## I am a **Software and Game Developer** !
+# Demetre Shonia
+ 
+Software engineer working in .NET/C#, currently an M.Sc. Computer Science student at Karlsruhe Institute of Technology (KIT).
+ 
+- I build backend systems and developer tooling at [alfatraining](https://www.alfatraining.com/) as a working student.
+- Also, I'm co-founder and CTO of [Hoppla](https://hoppla.ge), a carpooling platform funded by Georgia's largest startup grant.
+- My bachelor thesis was supervised by [Prof. Walter F. Tichy](https://scholar.google.com/citations?user=23RPQBQAAAAJ&hl=en&oi=ao), benchmarked LLM strategies for translating natural language into Cypher queries.
+- And with my friends I co-founded the first openly available Georgian-language computer-science course, from programming basics to Theory of Computation, in the style of CS50 at **[Qbit](https://www.youtube.com/@qbit-geo)**.
 
-I am 23 years old  Computer Science 🥼 student from Georgia. Doing my Master's CS at KIT, Karlsruhe. During the programming journey 🌏, I encountered many fields, particullary in game dev, web, mobile and blockchain development! 👨‍💻
-
-Skills: Unity, C#, NextJS, Python, Flutter, Java, Ocaml
-
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/demetre-shonia-958663228/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4N37TIgWC_QLpspNwGddZH8DhzljeYMFnA&s' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/c/shonia)  
-
+## Elsewhere
+ 
+[Website](https://www.shonia.dev) · [LinkedIn](https://www.linkedin.com/in/demetre-shonia-958663228/) · [Qbit on YouTube](https://www.youtube.com/@qbit-geo) · [Shonia on YouTube](https://www.youtube.com/@Shonia) · demetre.shonia.dev@gmail.com
